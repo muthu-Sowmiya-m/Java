@@ -6,6 +6,7 @@ public class ALIterator
     {
         //Adding elements to the list
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the no of elements " );
         int n = sc.nextInt();
         List<Integer> list = new ArrayList(n);
         System.out.println("Enter the elements " );
@@ -17,7 +18,7 @@ public class ALIterator
         System.out.println(list);
 
         //using iterators with arraylist
-        Iterator<Integer> itr = list.iterator();
+        Iterator itr = list.iterator();
         while(itr.hasNext())
         {
             int num = (Integer)itr.next() ;
