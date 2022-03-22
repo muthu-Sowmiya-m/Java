@@ -5,8 +5,8 @@ class PriorityQueues
     public static void main(String[] args) {
 
         // Creating a priority queue
-        PriorityQueue <Integer> numbers = new PriorityQueue<>();
-        PriorityQueue <String> strings = new PriorityQueue<String>();
+        PriorityQueue <Integer> numbers = new PriorityQueue<>(10);
+        PriorityQueue <String> strings = new PriorityQueue<String>(10);
         //Adding random elements
         numbers.add(4);
         numbers.add(2);
