@@ -7,6 +7,7 @@ class TreeMaps
     {
         //Default Comparator
         TreeMap<Integer,String> tmap = new TreeMap<Integer,String>();
+
        /*To use custom comparator
         TreeMap<Integer,String> tmap = new TreeMap<Integer,String>(Collections.reverseOrder();
         */
