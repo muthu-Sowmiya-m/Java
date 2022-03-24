@@ -1,4 +1,4 @@
-package HackerRank.DataStructures;
+package HackerRank.Datastructures;
 import java.io.*;
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package HackerRank.Strings;
+package HackerRank.Stringss;
 import java.util.*;
 
 public class StringReverse {

@@ -1,4 +1,4 @@
-package HackerRank.DataStructures;
+package HackerRank.Datastructures;
 import java.util.*;
 
 public class HashSets{
