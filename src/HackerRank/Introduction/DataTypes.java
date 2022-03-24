@@ -1,4 +1,4 @@
-package HackerRank.Basic;
+package HackerRank.Introduction;
 
 import java.util.*;
 import java.lang.Math;

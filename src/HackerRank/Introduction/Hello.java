@@ -1,4 +1,4 @@
-package HackerRank.Basic;
+package HackerRank.Introduction;
 public class Hello
 {
     public static void main(String[] args) {

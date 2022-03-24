@@ -1,4 +1,4 @@
-package HackerRank.Basic;
+package HackerRank.Introduction;
 import java.util.Scanner;
 
 public class InOut2{
